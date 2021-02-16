@@ -6,24 +6,11 @@
   <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-<div class="container">
-  <div class="nav">  
-    <h2>This is my first try to make my own website!</h2>
-    <ul>
-      <li>About me</li>
-      <li>Contacts</li>
-      <li>Contents</li>
-       <ul>
-	<li>Education</li>
-	<li>Statistics</li>
-       </ul> 
-    </ul>
+    <h2>Step by step_github</h2>
    </div>
    <div class="main">
-    <h1>Alsoyeon</h1>
-    <h2>Stretch my potential to the world.</h2>
-    <p>Great opportunity to meet you guys.</p>
-   </div>
-</div>
+    <h4>@also-yeon21</h4>
+    <h6>Totally new to git</h6>
+    <p>Looking forward to my growth</p>
 </body>
 </html>
